@@ -10,7 +10,38 @@
 </head>
 	
 	<body> 
-	 h1 {color:red;}
+	 
+	 h1 {
+	 		color: red;
+	 		text-align: center;
+	 	}
+	 	
+	 	
+	 	
+	 h2 { 
+	 		text-aligned: center;
+	 		text-decoration: underline;
+	 	}
+	 	
+	 	
+	 	
+	 p { 
+	 		color: green;
+	 		font-family: "Tahoma";
+	 	}
+	 	
+	 	
+	 ul.italic {
+	 	font-style: italic;
+	 	}
+	 	
+	 ol {
+	 	font-size: 20px;
+	 	font-size: 1.6em;
+	 	font-weight: bold;
+	 	}
+	 
+	 	
 	
 		<h1> Hello World </h1>
 		<h2> A place I would go like to visit </h2>
